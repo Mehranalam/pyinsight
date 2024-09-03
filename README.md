@@ -159,7 +159,7 @@ We welcome contributions to **PyInsight**! If you would like to contribute, plea
 
 ## **License**
 
-**PyInsight** is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+**PyInsight** is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for more details.
 
 ## **Contact**
 
