@@ -51,7 +51,7 @@ To install **PyInsight** from the source code, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/pyinsight.git
+   git clone https://github.com/mehranalam/pyinsight.git
    cd pyinsight
    ```
 
