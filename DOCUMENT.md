@@ -80,9 +80,9 @@ from pyinsight.interactive import InteractiveTable, InteractivePlot
 
 # Sample DataFrame
 data = pd.DataFrame({
-    "Name": ["Alice", "Bob", "Charlie", "David"],
+    "Name": ["mehran", "ali", "matin", "elnaz"],
     "Age": [24, 27, 22, 32],
-    "City": ["New York", "Los Angeles", "Chicago", "Houston"]
+    "City": ["tehran", "gilan", "boshehr", "karaj"]
 })
 
 # Create and display an interactive table
@@ -90,7 +90,7 @@ table = InteractiveTable(data)
 table.show()
 
 # Filter table data and display
-filtered_table = table.filter("City", "Chicago")
+filtered_table = table.filter("City", "karaj")
 filtered_table.show()
 
 # Create and display an interactive plot
@@ -112,9 +112,9 @@ import pandas as pd
 
 # Initialize with DataFrame
 data = pd.DataFrame({
-    "Name": ["Alice", "Bob", "Charlie", "David"],
+    "Name": ["mehran", "ali", "matin", "elnaz"],
     "Age": [24, 27, 22, 32],
-    "City": ["New York", "Los Angeles", "Chicago", "Houston"]
+    "City": ["tehran", "gilan", "boshehr", "karaj"]
 })
 table = InteractiveTable(data)
 
@@ -125,8 +125,8 @@ table.show()
 #### **Filtering Data**
 
 ```python
-# Filter rows where 'City' is 'Chicago'
-filtered_table = table.filter("City", "Chicago")
+# Filter rows where 'City' is 'karaj'
+filtered_table = table.filter("City", "karaj")
 filtered_table.show()
 ```
 
@@ -207,9 +207,9 @@ from pyinsight.interactive import InteractiveTable, InteractivePlot
 
 # Sample DataFrame
 data = pd.DataFrame({
-    "Name": ["Alice", "Bob", "Charlie", "David"],
+    "Name": ["mehran", "ali", "matin", "elnaz"],
     "Age": [24, 27, 22, 32],
-    "City": ["New York", "Los Angeles", "Chicago", "Houston"]
+    "City": ["tehran", "gilan", "boshehr", "karaj"]
 })
 
 # Display interactive table
@@ -217,7 +217,7 @@ table = InteractiveTable(data)
 table.show()
 
 # Filter and display
-filtered_table = table.filter("City", "Chicago")
+filtered_table = table.filter("City", "karaj")
 filtered_table.show()
 
 # Plotting
@@ -303,7 +303,7 @@ To contribute to **PyInsight**, please follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/pyinsight.git
+   git clone https://github.com/mehranalam/pyinsight.git
    cd pyinsight
    ```
 
@@ -336,8 +336,6 @@ We welcome contributions to **PyInsight**. To ensure a smooth contribution proce
 - Follow the development guidelines.
 - Ensure your changes are well-documented and tested.
 - Submit a pull request with a detailed description of your changes.
-
-For more information, see the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## **License**
 
