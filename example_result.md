@@ -49,6 +49,8 @@ live_plot.start()
 3   elnaz   32    karaj
 ```
 
+![text](doc-1.png)
+
 #### 2. **Filter the table to show only "Chicago":**
 ```
  Name Age City
