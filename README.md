@@ -2,8 +2,6 @@
 
 **PyInsight** is a Python library designed to simplify interactive data analysis and visualization directly within the console. With tools for displaying tables, generating plots, analyzing text, and managing live data, **PyInsight** empowers you to work more efficiently with your data.
 
-![PyInsight Logo](https://via.placeholder.com/150)
-
 ## **Features**
 
 - **Interactive Tables**: Display and filter tabular data interactively.
