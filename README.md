@@ -21,7 +21,7 @@ Alternatively, install from the source:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/pyinsight.git
+    git clone https://github.com/Mehranalam/pyinsight.git
     cd pyinsight
     ```
 
